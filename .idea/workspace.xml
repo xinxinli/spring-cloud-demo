@@ -36,8 +36,8 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-cloud-consumer/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="42" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -81,6 +81,10 @@
     <findStrings>
       <find>jupiter</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -137,11 +141,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="742" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -172,10 +177,10 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mySpringBoot/springbootdemo" />
+    <property name="last_opened_file_path" value="D:/developTools/git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -273,18 +278,18 @@
       <option name="presentableId" value="Default" />
       <updated>1579056354234</updated>
       <workItem from="1579056358216" duration="6531000" />
-      <workItem from="1579071475892" duration="14535000" />
+      <workItem from="1579071475892" duration="15548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21066000" />
+    <option name="totallyTimeSpent" value="22079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1382" height="742" extended-state="1" />
+    <frame x="-8" y="0" width="1382" height="742" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="JRebel Executor" order="7" />
@@ -302,12 +307,12 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.49019608" />
+      <window_info anchor="bottom" id="Run Dashboard" weight="0.49019608" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46254072" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Sequence" order="7" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26399395" />
       <window_info anchor="bottom" id="Problems" order="7" weight="0.32843137" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.32980332" />
@@ -509,8 +514,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="42" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
