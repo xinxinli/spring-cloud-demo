@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaffbab8-b341-4d42-a596-d41bd4e3d977" name="Default" comment="" />
+    <list default="true" id="aaffbab8-b341-4d42-a596-d41bd4e3d977" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
@@ -36,8 +38,8 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-cloud-consumer/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret column="45" selection-start-column="24" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -46,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +143,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="742" />
@@ -278,12 +280,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579056354234</updated>
       <workItem from="1579056358216" duration="6531000" />
-      <workItem from="1579071475892" duration="15548000" />
+      <workItem from="1579071475892" duration="16047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22079000" />
+    <option name="totallyTimeSpent" value="22578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1382" height="742" extended-state="0" />
@@ -505,7 +507,7 @@
     <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -514,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret column="45" selection-start-column="24" selection-end-column="45" />
         </state>
       </provider>
     </entry>
